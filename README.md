@@ -61,17 +61,4 @@ and budget recommendations for the next month.
 
 `Expo` `Express.js` `PostgreSQL`
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eNgeLzzRus&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eNgeLzzRus&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eNgeLzzRus&color=2563eb&style=flat-square" alt="Profile views" />
-</p>
