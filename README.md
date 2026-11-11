@@ -1,4 +1,4 @@
-![Banner](https://portfolio.ldldprpr.workers.dev/preview.png)
+![Alexander Lakman Banner](./assets/banner.png)
 
 <h1 align="center">Hi 👋, I'm Alexander Lakman</h1>
 
